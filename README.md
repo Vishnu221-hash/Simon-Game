@@ -1,2 +1,3 @@
 # Simon-Game
-Built on HTML
+Built on HTML, CSS
+
